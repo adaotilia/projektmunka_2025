@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\routes",
+    "\\src\\routes\\dashboard",
+    "\\src\\routes\\dashboard\\admin",
+    "\\src\\routes\\dashboard\\employee",
+    "\\src\\routes\\dashboard\\manager"
+  ],
+  "SelectedNode": "\\src\\messageHandler.js",
+  "PreviewInSolutionExplorer": false
+}
