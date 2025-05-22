@@ -13,6 +13,3 @@ Belépéshez szükséges adatok:
 admin1 teszt123
 manager1 cica1234
 kovacs teszt123
-
-PPT:
-https://docs.google.com/presentation/d/1NyeAMT8pM2GiX8E3_skpG5gDDRH3drOCNFWEqwrMJr0/edit?usp=sharing
